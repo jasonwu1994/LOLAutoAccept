@@ -1,0 +1,5 @@
+<html>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Click here</strong></span><strong> to start using the </strong><strong><em>HTML editor online</em></strong></h2>
+<p><span style="font-weight: 400;">Please</span><span style="font-weight: 400;"> try out the WYSIWYG HTML editor features found in the kitchen sink above to edit and format your text and images</span></p>
+<p><span style="font-weight: 400;">You&rsquo;ll see the content created in the WYSIWYG-HTML editor in source code format on the right.</span><br /><br /></p>
+</html>
