@@ -1,5 +1,5 @@
 {
   "LatestVersion": "0.4",
-  "LatestVersionURL": "https://drive.google.com/open?id=1gGq7kXi8Rl7InnUkVGxKacHXueCoyY35",
+  "LatestVersionURL": "https://drive.google.com/open?id=1IPv-aCEA1vUjjTZecW-3U-7fOftaCyDd",
   "ForcedUpdate": "yes"
 }
