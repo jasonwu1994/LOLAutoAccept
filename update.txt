@@ -1,5 +1,5 @@
 {
-  "LatestVersion": "0.5",
-  "LatestVersionURL": "https://docs.google.com/uc?id=1YGI0x5_oAx7U2yiBzXvMeYRE12kI-gzv&export=download",
+  "LatestVersion": "0.6",
+  "LatestVersionURL": "http://drive.google.com/uc?id=1cf0n3AmOVBAwWQcNu_Qxwx5O88k7aPjq&export=download",
   "ForcedUpdate": "no"
 }
