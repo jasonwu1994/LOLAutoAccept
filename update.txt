@@ -1,5 +1,6 @@
 {
   "LatestVersion": "0.6",
   "LatestVersionURL": "http://drive.google.com/uc?id=1cf0n3AmOVBAwWQcNu_Qxwx5O88k7aPjq&export=download",
-  "ForcedUpdate": "no"
+  "ForcedUpdate": "no",
+  "ForcedUpdateVersion": "0.5"
 }
