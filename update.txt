@@ -1,6 +1,6 @@
 {
   "LatestVersion": "0.7",
   "LatestVersionURL": "https://drive.google.com/uc?id=1tAL2Vy7_lq4hHpzONbwXPfxg2T8EwQm8&export=download",
-  "ForcedUpdate": "no",
+  "ForcedUpdate": "yes",
   "ForcedUpdateVersion": "0.7"
 }
