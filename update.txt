@@ -1,6 +1,6 @@
 {
-  "LatestVersion": "0.7",
-  "LatestVersionURL": "https://lihi1.cc/QbTGm/app",
-  "ForcedUpdate": "yes",
+  "LatestVersion": "1.0",
+  "LatestVersionURL": "https://lihi.cc/GyuRQ",
+  "ForcedUpdate": "no",
   "ForcedUpdateVersion": "0.7"
 }
