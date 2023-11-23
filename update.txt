@@ -1,6 +1,6 @@
 {
   "LatestVersion": "1.0",
   "LatestVersionURL": "https://lihi.cc/GyuRQ",
-  "ForcedUpdate": "no",
-  "ForcedUpdateVersion": "0.7"
+  "ForcedUpdate": "yes",
+  "ForcedUpdateVersion": "0.9"
 }
